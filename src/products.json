@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Sillon",
+    "description": "Sillón Blanco",
+    "price": 150000,
+    "thumbnail": "https://innovationhome.online/wp-content/uploads/2021/06/35.jpg",
+    "code": "136",
+    "stock": 12,
+    "id": 1
+  },
+  {
+    "title": "Silla",
+    "description": "Silla de mimbre",
+    "price": 40000,
+    "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/273/932/products/dbfcb3e5-ff14-47c4-baf6-66e83020666b1-4337d991290fe6612416798529091761-640-0.jpg",
+    "code": "136",
+    "stock": 1,
+    "id": 2
+  },
+  {
+    "title": "Biblioteca",
+    "description": "Biblioteca blanca",
+    "price": 36000,
+    "thumbnail": "https://i.pinimg.com/1200x/b9/fe/b8/b9feb8807fcd2f47bb8a0397e6bd2bca.jpg",
+    "code": "136",
+    "stock": 8,
+    "id": 3
+  },
+  {
+    "title": "Cama",
+    "description": "Cama Queen Size",
+    "price": 280000,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWRHk8mrv0YUcP2fIvTAV-_8foP7X5SS6kVi5nwPjlbB6qtGwAOmerEHn5HgvRugLy7Y&usqp=CAU",
+    "code": "136",
+    "stock": 5,
+    "id": 4
+  },
+  {
+    "title": "Escritorio",
+    "description": "Escritorio modular con silla",
+    "price": 18000,
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/114/456/products/escritorio-pleno_doble_1columna111-0e2d0089da8197b90915851468517932-640-0.jpg",
+    "code": "136",
+    "stock": 9,
+    "id": 5
+  },
+  {
+    "title": "Sillita",
+    "description": "Sillita para bebes y nenes",
+    "price": 18000,
+    "thumbnail": "https://www.megababy.pe/blog/wp-content/uploads/2019/07/carsit1.jpg",
+    "code": "136",
+    "stock": 22,
+    "id": 6
+  },
+  {
+    "title": "Mesa madera",
+    "description": "Mesa de madera de pino",
+    "price": 18000,
+    "thumbnail": "https://d22fxaf9t8d39k.cloudfront.net/51a087a39d0e57f5322cbc28c18b536377b49808625816a5a9e7966d0cae613b125847.jpg",
+    "code": "136",
+    "stock": 16,
+    "id": 7
+  },
+  {
+    "title": "Escritorio negro",
+    "description": "Escritorio negro",
+    "price": 18000,
+    "thumbnail": "https://mueblesjuligon.com/wp-content/uploads/2020/05/01.jpg",
+    "code": "136",
+    "stock": 7,
+    "id": 8
+  }
+]
